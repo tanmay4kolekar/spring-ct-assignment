@@ -1,0 +1,15 @@
+.my-table {
+  border: 5px;
+  border-color: cadetblue;
+  width: auto !important;
+  height: auto !important;
+  margin: 20px auto 50px auto;
+  border-radius: 5px;
+  background-color: beige;
+  padding: 20px;
+  min-width: 50%;
+  max-width: 50%;
+}
+.empty-data {
+  text-align: center;
+}
